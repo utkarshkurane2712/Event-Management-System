@@ -64,22 +64,6 @@ A Java application to manage events, venues, and organizers using Java Spring Bo
 
 The backend API will be running on `http://localhost:8080`.
 
-### Frontend Setup
-
-1. **Navigate to the frontend directory:**
-    ```bash
-    cd ../frontend
-    ```
-
-2. **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3. **Start the React application:**
-    ```bash
-    npm start
-    ```
 ## API Endpoints
 
 ### Event Endpoints
